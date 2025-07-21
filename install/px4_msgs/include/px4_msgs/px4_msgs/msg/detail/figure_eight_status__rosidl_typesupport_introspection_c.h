@@ -1,0 +1,1 @@
+/home/lee/workspace/vrpn/build/px4_msgs/rosidl_typesupport_introspection_c/px4_msgs/msg/detail/figure_eight_status__rosidl_typesupport_introspection_c.h

@@ -1,0 +1,27 @@
+[0.007s] Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/build/vrpn_mocap -- -j32 -l32
+[0.038s] [ 60%] Built target vrpn_mocap
+[0.051s] [100%] Built target client_node
+[0.057s] Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/build/vrpn_mocap -- -j32 -l32
+[0.058s] Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/build/vrpn_mocap
+[0.061s] -- Install configuration: ""
+[0.061s] -- Execute custom install script
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/lib/vrpn_mocap/libvrpn_mocap.a
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/lib/vrpn_mocap/client_node
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/launch/client.launch.yaml
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/config/client.yaml
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/ament_index/resource_index/package_run_dependencies/vrpn_mocap
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/ament_index/resource_index/parent_prefix_path/vrpn_mocap
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/ament_prefix_path.sh
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/ament_prefix_path.dsv
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/path.sh
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/path.dsv
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.bash
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.sh
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.zsh
+[0.062s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.dsv
+[0.062s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/package.dsv
+[0.067s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/ament_index/resource_index/packages/vrpn_mocap
+[0.067s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/cmake/vrpn_mocapConfig.cmake
+[0.067s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/cmake/vrpn_mocapConfig-version.cmake
+[0.067s] -- Up-to-date symlink: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/package.xml
+[0.073s] Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/build/vrpn_mocap

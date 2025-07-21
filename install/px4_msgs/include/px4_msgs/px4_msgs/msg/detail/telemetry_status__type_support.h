@@ -1,0 +1,1 @@
+/home/lee/workspace/vrpn/build/px4_msgs/rosidl_generator_c/px4_msgs/msg/detail/telemetry_status__type_support.h

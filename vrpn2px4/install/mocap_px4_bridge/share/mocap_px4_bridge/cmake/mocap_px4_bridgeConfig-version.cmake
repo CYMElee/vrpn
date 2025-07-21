@@ -1,0 +1,1 @@
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/ament_cmake_core/mocap_px4_bridgeConfig-version.cmake

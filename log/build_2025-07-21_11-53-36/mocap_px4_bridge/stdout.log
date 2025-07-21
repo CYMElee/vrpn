@@ -1,0 +1,24 @@
+[35m[1mConsolidate compiler generated dependencies of target mocap_px4_bridge[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mocap_px4_bridge.dir/src/mocap_px4_bridge.cpp.o[0m
+[100%] [32m[1mLinking CXX executable mocap_px4_bridge[0m
+[100%] Built target mocap_px4_bridge
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/lib/mocap_px4_bridge/mocap_px4_bridge
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge//launch/run.launch.py
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge//config/params.yaml
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/ament_index/resource_index/package_run_dependencies/mocap_px4_bridge
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/ament_index/resource_index/parent_prefix_path/mocap_px4_bridge
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/ament_prefix_path.sh
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/ament_prefix_path.dsv
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/path.sh
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/path.dsv
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.bash
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.sh
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.zsh
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.dsv
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/package.dsv
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/ament_index/resource_index/packages/mocap_px4_bridge
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/cmake/mocap_px4_bridgeConfig.cmake
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/cmake/mocap_px4_bridgeConfig-version.cmake
+-- Symlinking: /home/lee/workspace/vrpn/install/mocap_px4_bridge/share/mocap_px4_bridge/package.xml

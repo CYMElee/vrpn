@@ -1,0 +1,6 @@
+Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lee/workspace/vrpn/vrpn_mocap -DCMAKE_INSTALL_PREFIX=/home/lee/workspace/vrpn/install/vrpn_mocap
+Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lee/workspace/vrpn/vrpn_mocap -DCMAKE_INSTALL_PREFIX=/home/lee/workspace/vrpn/install/vrpn_mocap
+Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/build/vrpn_mocap -- -j32 -l32
+Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/build/vrpn_mocap -- -j32 -l32
+Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/build/vrpn_mocap
+Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/build/vrpn_mocap

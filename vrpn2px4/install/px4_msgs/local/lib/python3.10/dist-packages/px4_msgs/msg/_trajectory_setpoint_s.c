@@ -1,0 +1,1 @@
+/home/lee/workspace/vrpn/vrpn2px4/build/px4_msgs/rosidl_generator_py/px4_msgs/msg/_trajectory_setpoint_s.c

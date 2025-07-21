@@ -1,0 +1,8 @@
+[01m[K/home/lee/workspace/vrpn/vrpn2px4/src/mocap_px4_bridge/src/mocap_px4_bridge.cpp:[m[K In constructor ‘[01m[KMocapPX4Bridge::MocapPX4Bridge()[m[K’:
+[01m[K/home/lee/workspace/vrpn/vrpn2px4/src/mocap_px4_bridge/src/mocap_px4_bridge.cpp:45:87:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV1_px4_topic[m[K’ was not declared in this scope; did you mean ‘[01m[KMAV1_mocap_topic[m[K’?
+   45 |                 MAV1_odomPub = this->create_publisher<px4_msgs::msg::VehicleOdometry>([01;31m[KMAV1_px4_topic[m[K, 10);
+      |                                                                                       [01;31m[K^~~~~~~~~~~~~~[m[K
+      |                                                                                       [32m[KMAV1_mocap_topic[m[K
+gmake[2]: *** [CMakeFiles/mocap_px4_bridge.dir/build.make:76: CMakeFiles/mocap_px4_bridge.dir/src/mocap_px4_bridge.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/mocap_px4_bridge.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

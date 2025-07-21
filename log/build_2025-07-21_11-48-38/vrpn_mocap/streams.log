@@ -1,0 +1,86 @@
+[0.005s] Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lee/workspace/vrpn/vrpn_mocap -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lee/workspace/vrpn/install/vrpn_mocap
+[0.119s] -- The C compiler identification is GNU 11.4.0
+[0.207s] -- The CXX compiler identification is GNU 11.4.0
+[0.213s] -- Detecting C compiler ABI info
+[0.259s] -- Detecting C compiler ABI info - done
+[0.263s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.263s] -- Detecting C compile features
+[0.263s] -- Detecting C compile features - done
+[0.264s] -- Detecting CXX compiler ABI info
+[0.304s] -- Detecting CXX compiler ABI info - done
+[0.308s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.308s] -- Detecting CXX compile features
+[0.308s] -- Detecting CXX compile features - done
+[0.309s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.492s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.527s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.551s] -- Found quatlib: /opt/ros/humble/lib/libquat.a  
+[0.552s] -- Looking for pthread.h
+[0.589s] -- Looking for pthread.h - found
+[0.589s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.626s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.626s] -- Found Threads: TRUE  
+[0.627s] -- Found VRPN: /opt/ros/humble/lib/libvrpn.a  
+[0.627s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.642s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.644s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.647s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.652s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.659s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.677s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.678s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.724s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.741s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.763s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.807s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.817s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.824s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.827s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.877s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.885s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.885s] -- Configured cppcheck include dirs: /opt/ros/humble/include/rclcpp;/opt/ros/humble/include/rclcpp;$<BUILD_INTERFACE:/home/lee/workspace/vrpn/vrpn_mocap/include>
+[0.885s] -- Configured cppcheck exclude dirs and/or files: 
+[0.889s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.889s] -- Configured cpplint exclude dirs and/or files: 
+[0.890s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.891s] -- Added test 'lint_cmake' to check CMake code style
+[0.892s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.896s] -- Added test 'uncrustify' to check C / C++ code style
+[0.896s] -- Configured uncrustify additional arguments: 
+[0.897s] -- Added test 'xmllint' to check XML markup files
+[0.898s] -- Configuring done
+[0.903s] -- Generating done
+[0.905s] -- Build files have been written to: /home/lee/workspace/vrpn/build/vrpn_mocap
+[0.909s] Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/lee/workspace/vrpn/vrpn_mocap -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lee/workspace/vrpn/install/vrpn_mocap
+[0.910s] Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/build/vrpn_mocap -- -j32 -l32
+[0.938s] [ 20%] [32mBuilding CXX object CMakeFiles/vrpn_mocap.dir/src/client.cpp.o[0m
+[0.938s] [ 40%] [32mBuilding CXX object CMakeFiles/vrpn_mocap.dir/src/tracker.cpp.o[0m
+[4.649s] [ 60%] [32m[1mLinking CXX static library libvrpn_mocap.a[0m
+[4.743s] [ 60%] Built target vrpn_mocap
+[4.756s] [ 80%] [32mBuilding CXX object CMakeFiles/client_node.dir/src/client_node.cpp.o[0m
+[5.906s] [100%] [32m[1mLinking CXX executable client_node[0m
+[6.067s] [100%] Built target client_node
+[6.076s] Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/build/vrpn_mocap -- -j32 -l32
+[6.076s] Invoking command in '/home/lee/workspace/vrpn/build/vrpn_mocap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/build/vrpn_mocap
+[6.078s] -- Install configuration: ""
+[6.079s] -- Execute custom install script
+[6.079s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/lib/vrpn_mocap/libvrpn_mocap.a
+[6.082s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/lib/vrpn_mocap/client_node
+[6.087s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/launch/client.launch.yaml
+[6.093s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/config/client.yaml
+[6.097s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/ament_index/resource_index/package_run_dependencies/vrpn_mocap
+[6.101s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/ament_index/resource_index/parent_prefix_path/vrpn_mocap
+[6.105s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/ament_prefix_path.sh
+[6.110s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/ament_prefix_path.dsv
+[6.114s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/path.sh
+[6.118s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/environment/path.dsv
+[6.123s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.bash
+[6.127s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.sh
+[6.132s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.zsh
+[6.137s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/local_setup.dsv
+[6.142s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/package.dsv
+[6.146s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/ament_index/resource_index/packages/vrpn_mocap
+[6.151s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/cmake/vrpn_mocapConfig.cmake
+[6.156s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/cmake/vrpn_mocapConfig-version.cmake
+[6.160s] -- Symlinking: /home/lee/workspace/vrpn/install/vrpn_mocap/share/vrpn_mocap/package.xml
+[6.166s] Invoked command in '/home/lee/workspace/vrpn/build/vrpn_mocap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/build/vrpn_mocap

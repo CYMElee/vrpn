@@ -1,0 +1,4 @@
+Invoking command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack -- -j32 -l32
+Invoked command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack -- -j32 -l32
+Invoking command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack
+Invoked command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lee/workspace/vrpn/vrpn2px4/build/mocap_optitrack

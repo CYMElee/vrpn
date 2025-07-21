@@ -1,0 +1,1 @@
+/home/lee/workspace/vrpn/vrpn2px4/build/px4_msgs/rosidl_generator_py/px4_msgs/msg/_open_drone_id_system.py

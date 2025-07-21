@@ -1,0 +1,1 @@
+/home/lee/workspace/vrpn/build/vrpn_mocap/ament_cmake_environment_hooks/local_setup.sh

@@ -1,0 +1,28 @@
+[0.005s] Invoking command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge': AMENT_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge -- -j32 -l32
+[0.028s] [35m[1mConsolidate compiler generated dependencies of target mocap_px4_bridge[0m
+[0.037s] [ 50%] [32mBuilding CXX object CMakeFiles/mocap_px4_bridge.dir/src/mocap_px4_bridge.cpp.o[0m
+[3.459s] [100%] [32m[1mLinking CXX executable mocap_px4_bridge[0m
+[3.632s] [100%] Built target mocap_px4_bridge
+[3.639s] Invoked command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge' returned '0': AMENT_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge -- -j32 -l32
+[3.639s] Invoking command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge': AMENT_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge
+[3.642s] -- Install configuration: ""
+[3.642s] -- Execute custom install script
+[3.642s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/lib/mocap_px4_bridge/mocap_px4_bridge
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge//launch/run.launch.py
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge//config/params.yaml
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/ament_index/resource_index/package_run_dependencies/mocap_px4_bridge
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/ament_index/resource_index/parent_prefix_path/mocap_px4_bridge
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/ament_prefix_path.sh
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/ament_prefix_path.dsv
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/path.sh
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/environment/path.dsv
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.bash
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.sh
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.zsh
+[3.643s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/local_setup.dsv
+[3.643s] -- Symlinking: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/package.dsv
+[3.648s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/ament_index/resource_index/packages/mocap_px4_bridge
+[3.648s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/cmake/mocap_px4_bridgeConfig.cmake
+[3.648s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/cmake/mocap_px4_bridgeConfig-version.cmake
+[3.648s] -- Up-to-date symlink: /home/lee/workspace/vrpn/vrpn2px4/install/mocap_px4_bridge/share/mocap_px4_bridge/package.xml
+[3.649s] Invoked command in '/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge' returned '0': AMENT_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lee/workspace/vrpn/vrpn2px4/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge

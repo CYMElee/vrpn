@@ -1,0 +1,10 @@
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/uninstall.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/mocap_px4_bridge_uninstall.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/mocap_px4_bridge.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/test.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/edit_cache.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/rebuild_cache.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/list_install_components.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/install.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/install/local.dir
+/home/lee/workspace/vrpn/vrpn2px4/build/mocap_px4_bridge/CMakeFiles/install/strip.dir
